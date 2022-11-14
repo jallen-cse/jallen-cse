@@ -34,12 +34,17 @@ Languages, ordered (roughly) from most to least experience, are:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width=5% alt="CSS"/>
   </a>
+  <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width=5% alt="CSS"/>
+  </a>
 </p>
 
 Other technologies, libraries, and frameworks are:
 
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [Next.js](https://nextjs.org/)
 - [Tendermint Core](https://tendermint.com/core/)
 - [Cosmos SDK](https://v1.cosmos.network/sdk)
 - [Protobuf](https://developers.google.com/protocol-buffers)
@@ -55,6 +60,7 @@ Other technologies, libraries, and frameworks are:
 - [CosmWasm](https://cosmwasm.com/)
 - [Gazebo Robotics Simulator](https://gazebosim.org/home)
 - [CircleCI](https://circleci.com/)
+- [GNU Debugger](https://www.sourceware.org/gdb/)
 
 ---
 
