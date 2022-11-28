@@ -74,9 +74,9 @@ This is my personal account. I use a [different account](https://github.com/Jack
   <img src="https://github-readme-stats.vercel.app/api?username=Jack-Above&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jack-Above's GitHub Stats" />
 </a>
 
-<!-- <b>Personal Account Stats</b>
+<b>Personal Account Stats</b>
 
 <a href="http://www.github.com/jallen-cse">
   <img src="https://github-readme-stats.vercel.app/api?username=jallen-cse&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="jallen-cse's GitHub Stats" />
-</a> -->
+</a>
 
